@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "YesIntent"
+    },
+    {
+      "intent": "NoIntent"
+    },
+    {
+      "intent": "TurnOn"
+    },
+    {
+      "intent": "TurnOff"
+    }
+  ]
+}
